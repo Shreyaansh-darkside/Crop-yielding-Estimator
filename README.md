@@ -29,7 +29,7 @@ By default, flask will run on port 5000.
 3. Navigate to URL http://localhost:5000
 
 You should be able to view the homepage as below :
-![alt text](http://www.thepythonblog.com/wp-content/uploads/2019/02/Homepage.png)
+![alt text](https://github.com/Shreyaansh-darkside/Crop-yielding-Estimator/blob/master/Sample.jpg)
 
 Enter valid numerical values in all 2 input boxes and hit Predict.
 
