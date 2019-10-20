@@ -1,6 +1,3 @@
-## ML-Model-Flask-Deployment
-This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API.
-
 Check our link for its demo: https://www.youtube.com/watch?v=V6C7_id_mLk&lc=z23cfjraloe2evhg104t1aokg0ryiw4oendkx1tvkqpsrk0h00410
 ...
 
@@ -13,7 +10,8 @@ This project has four major parts :
 2. app.py - This contains Flask APIs that receives employee details through GUI or API calls, computes the precited value based on our model and returns it.
 3. templates - This folder contains the HTML template to allow user to enter  details and displays the prediction part.
 
-### Running the project
+### Running the project in windows os:
+** First of all go to cmd prompt and enter the working location of our project.
 1. Ensure that you are in the project home directory. Create the machine learning model by running below command -
 ```
 python model.py
